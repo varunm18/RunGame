@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{95ACDEB0-3F3E-ADC0-C654-EE031B4AB388}|">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="e10c674c-a562-4136-ad0c-787a862fdc2c" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ObstacleMovement.cs">
+    <Files>
+      <File FileName="Assets/Scripts/BallMovement.cs" Line="40" Column="22" />
+      <File FileName="Assets/Scripts/PlaneMovement.cs" Line="61" Column="32" />
+      <File FileName="Assets/Scripts/ObstacleMovement.cs" Line="25" Column="28" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RunGame" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="ObstacleMovement.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
