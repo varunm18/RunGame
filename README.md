@@ -1,4 +1,6 @@
 # RunGame
+Final Project for VR and Game Design
+
 3D Infinite Run Game replica made with Unity(https://www.coolmathgames.com/0-run)
 
 ### Details:
