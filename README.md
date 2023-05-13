@@ -1,5 +1,5 @@
 # RunGame
-Final Project for VR and Game Design
+Final Project for VR and Game Design Class
 
 3D Infinite Run Game replica made with Unity(https://www.coolmathgames.com/0-run)
 
